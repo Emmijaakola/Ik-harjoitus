@@ -1,9 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
         
-        int ika = 96;   
+        int ika = 80;   
         
-      
+      // Lisätään committi
         
         if (ika >= 0 && ika < 18)   
 
